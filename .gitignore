@@ -1,0 +1,15 @@
+/dist_linux_i386/
+/dist_win_x64/
+/dist_win_x86/
+/dist_linux_64/
+/DSLRtrigger/
+/DSLRtrigger_USB-GPS_U-blox7/
+/hs_err_pid1272.log
+/hs_err_pid13404.log
+/hs_err_pid10600.log
+/rxtxSerial.dll
+/rxtxParallel.dll
+/hs_err_pid13772.log
+/nbproject/genfiles.properties
+/nbproject/build-native.xml
+/nbproject/build-impl.xml
